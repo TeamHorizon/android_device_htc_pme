@@ -4,34 +4,29 @@
     "target_path": "kernel/htc/msm8996",
     "branch": "cm-14.1"
   },
- {
-   "repository": "LineageOS/android_device_qcom_common",
-   "target_path": "device/qcom/common",
-   "branch": "cm-14.1"
- },
- {
-   "repository": "LineageOS/android_vendor_nxp-nfc_opensource_frameworks",
-   "target_path": "vendor/nxp-nfc/opensource/frameworks",
-   "branch": "cm-14.1"
- },
- {
-   "repository": "LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci",
-   "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
-   "branch": "cm-14.1"
- },
- {
-   "repository": "LineageOS/android_vendor_nxp-nfc_opensource_Nfc",
-   "target_path": "vendor/nxp-nfc/opensource/Nfc",
-   "branch": "cm-14.1"
- },
+  {
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_frameworks",
+    "target_path": "vendor/nxp-nfc/opensource/frameworks",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci",
+    "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_Nfc",
+    "target_path": "vendor/nxp-nfc/opensource/Nfc",
+    "branch": "cm-14.1"
+  },
   {
     "repository": "LineageOS/android_packages_apps_FlipFlap",
     "target_path": "packages/apps/FlipFlap",
     "branch": "cm-14.1"
   },
   {
-    "repository": "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
+    "repository": "TheMuppets/proprietary_vendor_htc",
+    "target_path": "vendor/htc",
     "branch": "cm-14.1"
   }
 ]
